@@ -1,0 +1,29 @@
+#body {
+    display: flex;
+}
+
+#form {
+    width: 500px;
+    border: 2px solid black;
+    padding-left: 60px;
+    margin: 25px;
+}
+
+#display {
+    width: 500px;
+    border: 2px solid black;
+    padding-left: 60px;
+}
+
+#error {
+    color: red;
+    visibility: hidden;
+}
+
+.dis {
+    font-size: 20px;
+}
+
+label {
+    font-size: 20px;
+}
